@@ -1,21 +1,21 @@
 - **Chapter 1 (01_intro_with_modifications.ipynb)**
-    - 1  Dog vs Cat Image Classifier
-        - 1.1  What Is Machine Learning?
-        - 1.2  What Is a Neural Network?
-        - 1.3  Deep Learning Jargon
-        - 1.4  Limitations Inherent To ML, DL
-        - 1.5  How Our Image Recognizer Works
-        - 1.6  What Our Image Recognizer Learned
-        - 1.7  Image Recognizers Can Tackle Non-Image Tasks
-        - 1.8  Jargon Recap
-    - 2  Deep Learning Is Not Just for Image Classification
-        - 2.1  VISION - Image Segmentation (Self Driving Car!!)
-        - 2.2  NLP
-        - 2.3  Tabular
-        - 2.4  Collabarative Filtering
-    - 3  Datasets: Food for Models
-    - 4  Validation Sets and Test Sets
-        - 4.1  Use Judgment in Defining Validation sets
-    - 5  Questionnaire
-        - 5.1  Further Research
-    - 6  Playground 
+    - Dog vs Cat Image Classifier
+        - What Is Machine Learning?
+        - What Is a Neural Network?
+        - Deep Learning Jargon
+        - Limitations Inherent To ML, DL
+        - How Our Image Recognizer Works
+        - What Our Image Recognizer Learned
+        - Image Recognizers Can Tackle Non-Image Tasks
+        - Jargon Recap
+    - Deep Learning Is Not Just for Image Classification
+        - VISION - Image Segmentation (Self Driving Car!!)
+        - NLP
+        - Tabular
+        - Collabarative Filtering
+    - Datasets: Food for Models
+    - Validation Sets and Test Sets
+        - Use Judgment in Defining Validation sets
+    - Questionnaire
+        - Further Research
+    - Playground 
