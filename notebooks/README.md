@@ -1,9 +1,6 @@
-- Chapter 1 (01_intro_with_modifications.ipynb)
-
-    - Table of Contents:
-
+- **Chapter 1 (01_intro_with_modifications.ipynb)**
     - 1. Dog vs Cat Image Classifier
-        -  1.1  What Is Machine Learning?
+        - 1.1  What Is Machine Learning?
         - 1.2  What Is a Neural Network?
         - 1.3  Deep Learning Jargon
         - 1.4  Limitations Inherent To ML, DL
